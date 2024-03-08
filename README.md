@@ -3,9 +3,6 @@
 ## 🚀 About Me
 I'm a Data Analyst in the making, currently honing my skills at DUCAT Institute. With a BCA from Chaudhary Charan Singh University, I'm passionate about transforming data into actionable insights.
 
-🔭 **I’m currently working on:**
-- Developing a Sales Insights Dashboard to revolutionize sales data analysis.
-
 🌱 **I’m currently learning:**
 - Advanced data visualization techniques using Power BI and Tableau.
 
@@ -21,21 +18,10 @@ I'm a Data Analyst in the making, currently honing my skills at DUCAT Institute.
 📫 **How to reach me:**
 - Drop me an email at prashantvats003@gmail.com or connect with me on LinkedIn.
 
-👔 **Pronouns:**
-- He/Him
-
-
-
 ## 🛠 Skills
 - **Programming Languages:** Python, SQL, HTML, CSS
 - **Database:** MYSQL
 - **Visualization Tools:** Looker, Power BI, Tableau, Excel Charts
-
-## 📊 Projects
-- Google Search Console Analysis - A deep dive into SEO and website performance.
-- TO DO LIST Application - Keeping life organized, one task at a time.
-- Sales Insights Dashboard - Turning sales data into strategic insights.
-- Power BI Reports for Business Insights - Crafting stories from data.
 
 ## 🏆 Achievements
 - **Google Data Analytics Certificate** - Leveraged Google tools to boost website metrics significantly.
